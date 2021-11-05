@@ -5,7 +5,7 @@ sections:
     title: Transformación Digital + Mejores Prácticas
     subtitle: Potenciamos personas y organizaciones utilizando tecnologías digitales.
     actions:
-      - label: Contact Me
+      - label: Contactanos
         url: /contact
         style: primary
     image: images/hero.png
