@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Transformación Digital + Mejores Prácticas
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: Potenciamos personas y organizaciones utilizando tecnologías digitales.
     actions:
       - label: Contact Me
         url: /contact
