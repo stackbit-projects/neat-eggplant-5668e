@@ -4,10 +4,7 @@ sections:
   - type: hero_section
     title: Transformación Digital + Mejores Prácticas
     subtitle: Potenciamos personas y organizaciones utilizando tecnologías digitales.
-    actions:
-      - label: Contactanos
-        url: /contact
-        style: primary
+    actions: []
     image: /images/pexels-brett-sayles-2881233.jpg
     image_alt: A smiling woman
     media_position: right
